@@ -1,1 +1,1 @@
-printenvironment variables
+lists all variables
