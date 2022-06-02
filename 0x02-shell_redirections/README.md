@@ -1,1 +1,1 @@
-printing words that appear once
+printing a line containing a pattern
