@@ -1,1 +1,1 @@
-counting dirs in the path
+printenvironment variables
