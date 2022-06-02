@@ -1,1 +1,1 @@
-mirroring the file
+execution of subdirectories
