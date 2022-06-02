@@ -1,1 +1,1 @@
-pattern hidden
+displaying all lines of a file
