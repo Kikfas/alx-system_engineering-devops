@@ -1,1 +1,1 @@
-script containing the pattern
+pattern hidden
