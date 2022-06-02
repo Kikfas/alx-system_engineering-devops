@@ -1,1 +1,1 @@
-printing resulf of a dividion
+printing result of a division
