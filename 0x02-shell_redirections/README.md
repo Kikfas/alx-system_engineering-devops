@@ -1,1 +1,1 @@
-deleting js files
+making directories count
