@@ -1,1 +1,1 @@
-writing a script
+displaying a file
