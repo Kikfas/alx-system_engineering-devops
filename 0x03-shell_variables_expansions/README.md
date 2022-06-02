@@ -1,1 +1,1 @@
-creating global variable
+printing result os an addition
