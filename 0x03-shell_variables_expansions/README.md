@@ -1,1 +1,1 @@
-printing result os an addition
+printing resulf of a dividion
