@@ -1,1 +1,1 @@
-script that reverses
+displaying all users and directories
