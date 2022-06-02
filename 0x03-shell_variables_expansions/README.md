@@ -1,1 +1,1 @@
-converting a number
+print possible combinations
