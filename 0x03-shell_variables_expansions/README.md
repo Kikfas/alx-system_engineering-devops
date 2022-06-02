@@ -1,1 +1,1 @@
-creating alias
+script printing user
