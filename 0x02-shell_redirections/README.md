@@ -1,1 +1,1 @@
-displaying lines containing the pattern
+script containing the pattern
