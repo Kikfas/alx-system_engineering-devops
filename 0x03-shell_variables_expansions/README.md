@@ -1,1 +1,1 @@
-adding action to the path
+counting dirs in the path
