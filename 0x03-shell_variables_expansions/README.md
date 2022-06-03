@@ -1,1 +1,1 @@
-print possible combinations
+printing numbers
